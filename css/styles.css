@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+  width: 100%;
+}
+.user-type__header {
+  color: #333;
+  text-align: center;
+}
